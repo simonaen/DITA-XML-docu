@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_send_an_email">
+    <title>How to Send an Email?</title>
+    <shortdesc>Learn how to send an email using the Mail App.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ofw_d1p_3pb">You are required to be logged in in order to use this
+            feature. See the <xref href="how_to_log_in_your_mail_app.dita"/> for more
+            information.</prereq>
+        <context>
+            <p>You can send email to anyone using the Mail App. To do so, follow these steps.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click the "New Mail" button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the email of the receiver/receivers.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the subject of the email.</cmd>
+            </step>
+            <step>
+                <cmd>Compose the email.</cmd>
+            </step>
+            <step>
+                <cmd>Click send.</cmd>
+            </step>
+        </steps>
+        <result id="result_n43_m1p_3pb">
+            <p>Your email is now sent. You can double check this in your "Sent" folder. To learn
+                more about Mail organization see the <xref href="mail_app_organization_folders.dita"
+                /> page.</p>
+        </result>
+        <example id="example_zzj_51p_3pb">
+            <p>You want to send an email to "johndoe@email.com" asking them about their
+                vacation.</p>
+            <p>Click the "New Mail" button. Enter "johndoe@email.com" in the first field. Enter the
+                subject, for example,"Welcome back from your vacation!". Compose a message. Click
+                the "Send" button. </p>
+        </example>
+    </taskbody>
+</task>
