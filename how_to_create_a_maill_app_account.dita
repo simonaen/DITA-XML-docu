@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_a_maill_app_account">
+    <title>How to Create a Maill App Account?</title>
+    <shortdesc>Learn how to create an account in your Mail App.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_gpx_mw4_3pb">You have to install the Mail App from the App
+            store.</prereq>
+        <context>
+            <p>Creating an account is a requirement to use the Mail App. With your unique
+                credentials, you can log into your app and operate with your emails.</p>
+            <p>To learn what credentails are, check the <xref
+                    href="what_are_mail_app_credentials.dita"/> page.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open the Mail App.</cmd>
+            </step>
+            <step>
+                <cmd>Click "Create new account" button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your first name in the "First name" field.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your last name in the "Last name" field.</cmd>
+            </step>
+            <step>
+                <cmd>Enter a username in the "Username" field.</cmd>
+            </step>
+            <step>
+                <cmd>Enter a password in the "Password" field.</cmd>
+            </step>
+            <step>
+                <cmd>Confirm password in the "Confirm password" field.</cmd>
+            </step>
+            <step>
+                <cmd>Click "Create" button.</cmd>
+            </step>
+        </steps>
+        <result id="result_izq_tw4_3pb">
+            <p>If all your data is correct, you will see a confirmation message saying "Account
+                created successfully. You can log in using your username and password.".</p>
+            <p>If the data is incorrect you will be prompted to re-enter the fields with incorrect
+                input.</p>
+        </result>
+        <example id="example_jrp_zw4_3pb">
+            <p>A user called John Doe wants to create an account in his Mail App.</p>
+            <p>The user clicks the "Create new account button" and enters "John" in the "First name"
+                field, "Doe" for the "Last name" field. Then they type in their desired username -
+                "johndoe" in the "Username" field and pick a secure password in the "Password"
+                field. They re-type the same password in "Confirm password" and click "Create".</p>
+            <p>John Doe now has an account in Mail App and can use "johndoe" and their password to
+                log in next time they are required to.</p>
+        </example>
+    </taskbody>
+</task>

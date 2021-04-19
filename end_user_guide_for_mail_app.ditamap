@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End User Guide for Mail App</title>
+    <topichead navtitle="Getting Started">
+        <topicref href="what_is_the_mail_app.dita"/>
+        <topicref href="what_are_mail_app_credentials.dita"/>
+        <topicref href="how_to_create_a_maill_app_account.dita"/>
+        <topicref href="how_to_log_in_your_mail_app.dita"/>
+        <topicref href="how_to_restore_a_password.dita"/>
+    </topichead>
+    <topichead navtitle="Receiving mail">
+        <topicref href="how_to_receive_mail.dita"/>
+    </topichead>
+    <topichead navtitle="Sending mail"/>
+    <topichead navtitle="Organizing mail"/>
+</map>

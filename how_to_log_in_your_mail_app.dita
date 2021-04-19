@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_log_in_your_mail_app">
+    <title>How to Log In your Mail App?</title>
+    <shortdesc>Learn how to log into your Mail App.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_wjf_tx4_3pb">You have to have an account in the Mail App. If you don't
+            have one, see the <xref href="how_to_create_a_maill_app_account.dita"/> page.</prereq>
+        <context>
+            <p>Occasionally you are required to log in your account in the Mail App. To do this,
+                follow these steps:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the welcome page, click the "Log in" button</cmd>
+            </step>
+            <step>
+                <cmd>Type in your username.</cmd>
+            </step>
+            <step>
+                <cmd>Type in your password.</cmd>
+            </step>
+            <step>
+                <cmd>Click "Log me in" button.</cmd>
+            </step>
+        </steps>
+        <result id="result_hn2_by4_3pb">
+            <p>If your credentials are valid, you should now see your inbox folder. If they are
+                wrong you will be prompted to re-enter them.</p>
+            <p>If you are having issues remembering your credentials click the "Reset password"
+                button. If you need help resetting your password, see the <xref
+                    href="how_to_restore_a_password.dita"/> guide.</p>
+        </result>
+    </taskbody>
+</task>

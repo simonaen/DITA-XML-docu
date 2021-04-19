@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_the_mail_app">
+    <title>What is the Mail App?</title>
+    <shortdesc>Here you can find information about the Mail App.</shortdesc>
+    <conbody>
+        <p>The Mail App is a mobile application that allows you to perform all necessary operations
+            with your emails.</p>
+        <p>You can send, receive, and organise emails.</p>
+    </conbody>
+</concept>
