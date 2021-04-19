@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Author/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Author/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen XML Author/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Author/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Author/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/enevas/Downloads/Uni/technical%20writing/final_project/final-project-sources/end_user_guide_for_mail_app.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">End User Guide for Mail App</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">End User Guide for Mail App</title>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Getting Started"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d113e14">Getting Started</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_the_mail_app"><resourceid appid="what_is_the_mail_app" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">What is the Mail App?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you can find information about the Mail App.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_are_mail_app_credentials"><resourceid appid="what_are_mail_app_credentials" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">What are Mail App Credentials?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn what are "credentials" in the Mail App.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_create_a_maill_app_account"><resourceid appid="how_to_create_a_maill_app_account" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">How to Create a Maill App Account?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to create an account in your Mail App.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_log_in_your_mail_app"><resourceid appid="how_to_log_in_your_mail_app" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">How to Log In your Mail App?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to log into your Mail App.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_restore_a_password"><resourceid appid="how_to_restore_a_password" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">How to Restore a Password?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> Find instructions on how to reset the password for your Mail App         account.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Receiving mail"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d113e71">Receiving mail</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_receive_mail"><resourceid appid="how_to_receive_mail" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">How to Receive mail?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you can find information on how to receive mail using the Mail App.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="why_am_i_receiving_unwanted_emails"><resourceid appid="why_am_i_receiving_unwanted_emails" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Why am I Receiving unwanted emails?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn about spam and how to avoid it in your Mail App.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Sending mail"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d113e95">Sending mail</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_send_an_email"><resourceid appid="how_to_send_an_email" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">How to Send an Email?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to send an email using the Mail App.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Organizing mail"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d113e108">Organizing mail</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_create_a_folder"><resourceid appid="how_to_create_a_folder" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">How to Create a Folder?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to create a custom folder to organize your emails.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_mark_an_email_as_spam"><resourceid appid="how_to_mark_an_email_as_spam" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">How to Mark an Email as Spam?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to mark an email as a spam.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="mail_app_organization_folders"><resourceid appid="mail_app_organization_folders" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Mail App Organization Folders</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how the Mail App organizes your emails.</shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d113e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Getting Started</ph></title><concept class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="what_is_the_mail_app" oid="what_is_the_mail_app" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is the Mail App?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you can find information about the Mail App.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The Mail App is a mobile application that allows you to perform all necessary operations
+            with your emails.</p>
+        <p class="- topic/p ">You can send, receive, and organise emails.</p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="what_are_mail_app_credentials" oid="what_are_mail_app_credentials" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What are Mail App Credentials?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Learn what are "credentials" in the Mail App.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Credentials are your unique username and password for your Mail App account. In order to
+            use the Mail App, you have to create an account with your username, full name, and
+            password. To learn how to create an account, see the <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot gentext?>How to Create a Maill App Account?<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to create an account in your Mail App.</desc></xref> page.</p>
+        <p class="- topic/p ">Each time you want to log in to your Mail App, you will be promted to enter the
+            credentials you chose when creating your account in order to validate your identity and
+            access your emails.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="how_to_create_a_maill_app_account" oid="how_to_create_a_maill_app_account" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Create a Maill App Account?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Learn how to create an account in your Mail App.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_3_Connect_42_prereq_gpx_mw4_3pb" nd:nd-id="prereq_gpx_mw4_3pb">You have to install the Mail App from the App
+            store.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Creating an account is a requirement to use the Mail App. With your unique
+                credentials, you can log into your app and operate with your emails.</p>
+            <p class="- topic/p ">To learn what credentails are, check the <xref class="- topic/xref " href="#unique_2" type="concept"><?ditaot gentext?>What are Mail App Credentials?<?ditaot genshortdesc?><desc class="- topic/desc ">Learn what are "credentials" in the Mail App.</desc></xref> page.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open the Mail App.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click "Create new account" button.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter your first name in the "First name" field.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter your last name in the "Last name" field.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter a username in the "Username" field.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter a password in the "Password" field.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Confirm password in the "Confirm password" field.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click "Create" button.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_3_Connect_42_result_izq_tw4_3pb" nd:nd-id="result_izq_tw4_3pb">
+            <p class="- topic/p ">If all your data is correct, you will see a confirmation message saying "Account
+                created successfully. You can log in using your username and password.".</p>
+            <p class="- topic/p ">If the data is incorrect you will be prompted to re-enter the fields with incorrect
+                input.</p>
+        </result>
+        <example class="- topic/example " id="unique_3_Connect_42_example_jrp_zw4_3pb" nd:nd-id="example_jrp_zw4_3pb">
+            <p class="- topic/p ">A user called John Doe wants to create an account in his Mail App.</p>
+            <p class="- topic/p ">The user clicks the "Create new account button" and enters "John" in the "First name"
+                field, "Doe" for the "Last name" field. Then they type in their desired username -
+                "johndoe" in the "Username" field and pick a secure password in the "Password"
+                field. They re-type the same password in "Confirm password" and click "Create".</p>
+            <p class="- topic/p ">John Doe now has an account in Mail App and can use "johndoe" and their password to
+                log in next time they are required to.</p>
+        </example>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="how_to_log_in_your_mail_app" oid="how_to_log_in_your_mail_app" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Log In your Mail App?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Learn how to log into your Mail App.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_wjf_tx4_3pb" nd:nd-id="prereq_wjf_tx4_3pb">You have to have an account in the Mail App. If you don't
+            have one, see the <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot gentext?>How to Create a Maill App Account?<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to create an account in your Mail App.</desc></xref> page.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Occasionally you are required to log in your account in the Mail App. To do this,
+                follow these steps:</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the welcome page, click the "Log in" button</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Type in your username.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Type in your password.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click "Log me in" button.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_hn2_by4_3pb" nd:nd-id="result_hn2_by4_3pb">
+            <p class="- topic/p ">If your credentials are valid, you should now see your inbox folder. If they are
+                wrong you will be prompted to re-enter them.</p>
+            <p class="- topic/p ">If you are having issues remembering your credentials click the "Reset password"
+                button. If you need help resetting your password, see the <xref class="- topic/xref " href="#unique_5" type="task"><?ditaot gentext?>How to Restore a Password?<?ditaot genshortdesc?><desc class="- topic/desc "> Find instructions on how to reset the password for your Mail App         account.</desc></xref> guide.</p>
+        </result>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="how_to_restore_a_password" oid="how_to_restore_a_password" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Restore a Password?</ph></title>
+    <shortdesc class="- topic/shortdesc "> Find instructions on how to reset the password for your Mail App
+        account.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_5_Connect_42_prereq_src_ty4_3pb" nd:nd-id="prereq_src_ty4_3pb">You have to have an account in the Mail App. If you don't
+            have one, see the <xref class="- topic/xref " href="#unique_3" type="task"><?ditaot gentext?>How to Create a Maill App Account?<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to create an account in your Mail App.</desc></xref> page.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">If your're hacing trouble logging into your existing account, you can reset your
+                password.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the "Reset password" button.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter your username.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter new password.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Confirm new password.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_5_Connect_42_result_hfl_xy4_3pb" nd:nd-id="result_hfl_xy4_3pb">You will be redirected to the Log In page where you can
+            enter your user name and new password.</result>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d113e71" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Receiving mail</ph></title><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="how_to_receive_mail" oid="how_to_receive_mail" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Receive mail?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you can find information on how to receive mail using the Mail App.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_6_Connect_42_prereq_kwg_cv4_3pb" nd:nd-id="prereq_kwg_cv4_3pb"><p class="- topic/p ">In order to be able to receive emails in yout Mail App,
+                you have to have it installed on your mobile device and be logged in.</p>See the
+                <xref class="- topic/xref " href="#unique_4" type="task"><?ditaot gentext?>How to Log In your Mail App?<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to log into your Mail App.</desc></xref> guide to learn how you can sign
+            in.</prereq>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open Mail App.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter your credentials.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Go to your "Inbox" folder.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_6_Connect_42_result_v44_hv4_3pb" nd:nd-id="result_v44_hv4_3pb">
+            <p class="- topic/p ">You will be able to see a list of your incoming emails sorted by latest receiving
+                date.</p>
+            <p class="- topic/p ">If you are receiving unwanted emails, check out the <xref class="- topic/xref " href="#unique_7" type="concept"><?ditaot gentext?>Why am I Receiving unwanted emails?<?ditaot genshortdesc?><desc class="- topic/desc ">Learn about spam and how to avoid it in your Mail App.</desc></xref> page.</p>
+        </result>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="why_am_i_receiving_unwanted_emails" oid="why_am_i_receiving_unwanted_emails" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Why am I Receiving unwanted emails?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Learn about spam and how to avoid it in your Mail App.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">A spam email is an unwanted email that you received in your Inbox. Those emails could be
+            the result of registering in an unverified website or signing up for an email list
+            involuntarily. Those emails could be harmless or contain virus links in them. We
+            strongly advise moving them to your "Spam" folder and separate them from your Inbox.</p>
+        <p class="- topic/p ">You can remove those emails by marking them as "Spam. See the <xref class="- topic/xref " href="#unique_8" type="task"><?ditaot gentext?>How to Mark an Email as Spam?<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to mark an email as a spam.</desc></xref> guide for instructions.</p>
+    </conbody>
+</concept></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d113e95" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Sending mail</ph></title><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="how_to_send_an_email" oid="how_to_send_an_email" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Send an Email?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Learn how to send an email using the Mail App.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_9_Connect_42_prereq_ofw_d1p_3pb" nd:nd-id="prereq_ofw_d1p_3pb">You are required to be logged in in order to use this
+            feature. See the <xref class="- topic/xref " href="#unique_4" type="task"><?ditaot gentext?>How to Log In your Mail App?<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to log into your Mail App.</desc></xref> for more
+            information.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You can send email to anyone using the Mail App. To do so, follow these steps.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the "New Mail" button.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the email of the receiver/receivers.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the subject of the email.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Compose the email.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click send.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_9_Connect_42_result_n43_m1p_3pb" nd:nd-id="result_n43_m1p_3pb">
+            <p class="- topic/p ">Your email is now sent. You can double check this in your "Sent" folder. To learn
+                more about Mail organization see the <xref class="- topic/xref " href="#unique_10" type="reference"><?ditaot gentext?>Mail App Organization Folders<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how the Mail App organizes your emails.</desc></xref> page.</p>
+        </result>
+        <example class="- topic/example " id="unique_9_Connect_42_example_zzj_51p_3pb" nd:nd-id="example_zzj_51p_3pb">
+            <p class="- topic/p ">You want to send an email to "johndoe@email.com" asking them about their
+                vacation.</p>
+            <p class="- topic/p ">Click the "New Mail" button. Enter "johndoe@email.com" in the first field. Enter the
+                subject, for example,"Welcome back from your vacation!". Compose a message. Click
+                the "Send" button. </p>
+        </example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d113e108" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Organizing mail</ph></title><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="how_to_create_a_folder" oid="how_to_create_a_folder" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Create a Folder?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Learn how to create a custom folder to organize your emails.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_11_Connect_42_prereq_rnd_gfp_3pb" nd:nd-id="prereq_rnd_gfp_3pb">You have to be logged into your Mail App account.</prereq>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Organizing email is an easy way to browse through your mails. Aside from your basic
+                folders, explained in <xref class="- topic/xref " href="#unique_10" type="reference"><?ditaot gentext?>Mail App Organization Folders<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how the Mail App organizes your emails.</desc></xref>, you can
+                have custom ones by following these steps.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click "Add new folder" button.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Type in the folder name</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Type in description (optional).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click "Add" button.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_11_Connect_42_result_g5x_nfp_3pb" nd:nd-id="result_g5x_nfp_3pb">
+            <p class="- topic/p ">You now have a new custom folder where you can move your emails.</p>
+        </result>
+        <example class="- topic/example " id="unique_11_Connect_42_example_g2s_rfp_3pb" nd:nd-id="example_g2s_rfp_3pb">
+            <p class="- topic/p ">To create a custom folder for, let's say, "Marketing offers", click the "Add new
+                folder" button. Name the folder "Marketing offers", write a short description
+                "Containing vouchers and discounts for my mailing lists.", and click "Add
+                button."</p>
+        </example>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="how_to_mark_an_email_as_spam" oid="how_to_mark_an_email_as_spam" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Mark an Email as Spam?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Learn how to mark an email as a spam.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">If you are receiving unwanted emails you can organize them by marking them as spam.
+                The Mail App has a Spam folder that separates them from the rest of your inbox. If
+                you're unsure as of why you are receiving those email, see the <xref class="- topic/xref " href="#unique_7" type="concept"><?ditaot gentext?>Why am I Receiving unwanted emails?<?ditaot genshortdesc?><desc class="- topic/desc ">Learn about spam and how to avoid it in your Mail App.</desc></xref> page.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open the email.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the burger icon in the right top corner.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select "Mark as Spam"</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_8_Connect_42_result_bzh_ggp_3pb" nd:nd-id="result_bzh_ggp_3pb">
+            <p class="- topic/p ">The unwanted email is moved to the spam folder. Future emails from this sender will
+                be moved there as well.</p>
+        </result>
+    </taskbody>
+</task><reference class="- topic/topic       reference/reference " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="mail_app_organization_folders" oid="mail_app_organization_folders" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Mail App Organization Folders</ph></title>
+    <shortdesc class="- topic/shortdesc ">Learn how the Mail App organizes your emails.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section " id="unique_10_Connect_42_section_ppt_4dp_3pb" nd:nd-id="section_ppt_4dp_3pb">
+            <title class="- topic/title ">Folder Types</title>
+            <p class="- topic/p ">The mail app offers an organization tool to help you navigate through your emails.
+                There are four base folders and you can create a custom one. If you want to create a
+                custom folder, see the <xref class="- topic/xref " href="#unique_11" type="task"><?ditaot gentext?>How to Create a Folder?<?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to create a custom folder to organize your emails.</desc></xref> guide.</p>
+        </section>
+        <table class="- topic/table " colsep="1" frame="all" id="unique_10_Connect_42_table_xlb_sdp_3pb" nd:nd-id="table_xlb_sdp_3pb" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Basic Folder Types</ph></title>
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;16:65" xtrf="file:/Users/enevas/Downloads/Uni/technical%20writing/final_project/final-project-sources/mail_app_organization_folders.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;17:65" xtrf="file:/Users/enevas/Downloads/Uni/technical%20writing/final_project/final-project-sources/mail_app_organization_folders.dita" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Folder Name</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Folder Purpose</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Inbox</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">This folder contains your received emails.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Sent</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">This fodler containes the emails that you sent.</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Spam</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">This fodler contains the emails you marked as "Spam".</entry>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Deleted</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">This folder contains the emails you deleted.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></topic></map>
