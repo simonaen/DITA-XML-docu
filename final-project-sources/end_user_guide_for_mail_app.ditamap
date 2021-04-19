@@ -11,7 +11,14 @@
     </topichead>
     <topichead navtitle="Receiving mail">
         <topicref href="how_to_receive_mail.dita"/>
+        <topicref href="why_am_i_receiving_unwanted_emails.dita"/>
     </topichead>
-    <topichead navtitle="Sending mail"/>
-    <topichead navtitle="Organizing mail"/>
+    <topichead navtitle="Sending mail">
+        <topicref href="how_to_send_an_email.dita"/>
+    </topichead>
+    <topichead navtitle="Organizing mail">
+        <topicref href="how_to_create_a_folder.dita"/>
+        <topicref href="how_to_mark_an_email_as_spam.dita"/>
+        <topicref href="mail_app_organization_folders.dita"/>
+    </topichead>
 </map>
