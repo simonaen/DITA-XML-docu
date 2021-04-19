@@ -2,8 +2,13 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="why_am_i_receiving_unwanted_emails">
     <title>Why am I Receiving unwanted emails?</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Learn about spam and how to avoid it in your Mail App.</shortdesc>
     <conbody>
-        <p></p>
+        <p>A spam email is an unwanted email that you received in your Inbox. Those emails could be
+            the result of registering in an unverified website or signing up for an email list
+            involuntarily. Those emails could be harmless or contain virus links in them. We
+            strongly advise moving them to your "Spam" folder and separate them from your Inbox.</p>
+        <p>You can remove those emails by marking them as "Spam. See the <xref
+                href="how_to_mark_an_email_as_spam.dita"/> guide for instructions.</p>
     </conbody>
 </concept>

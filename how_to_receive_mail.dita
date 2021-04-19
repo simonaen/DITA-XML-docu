@@ -22,6 +22,8 @@
         <result id="result_v44_hv4_3pb">
             <p>You will be able to see a list of your incoming emails sorted by latest receiving
                 date.</p>
+            <p>If you are receiving unwanted emails, check out the <xref
+                    href="why_am_i_receiving_unwanted_emails.dita"/> page.</p>
         </result>
     </taskbody>
 </task>
