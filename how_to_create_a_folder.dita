@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_a_folder">
+    <title>How to Create a Folder?</title>
+    <shortdesc>Learn how to create a custom folder to organize your emails.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_rnd_gfp_3pb">You have to be logged into your Mail App account.</prereq>
+        <context>
+            <p>Organizing email is an easy way to browse through your mails. Aside from your basic
+                folders, explained in <xref href="mail_app_organization_folders.dita"/>, you can
+                have custom ones by following these steps.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click "Add new folder" button.</cmd>
+            </step>
+            <step>
+                <cmd>Type in the folder name</cmd>
+            </step>
+            <step>
+                <cmd>Type in description (optional).</cmd>
+            </step>
+            <step>
+                <cmd>Click "Add" button.</cmd>
+            </step>
+        </steps>
+        <result id="result_g5x_nfp_3pb">
+            <p>You now have a new custom folder where you can move your emails.</p>
+        </result>
+        <example id="example_g2s_rfp_3pb">
+            <p>To create a custom folder for, let's say, "Marketing offers", click the "Add new
+                folder" button. Name the folder "Marketing offers", write a short description
+                "Containing vouchers and discounts for my mailing lists.", and click "Add
+                button."</p>
+        </example>
+    </taskbody>
+</task>

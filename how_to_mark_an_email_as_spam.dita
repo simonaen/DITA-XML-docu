@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_mark_an_email_as_spam">
+    <title>How to Mark an Email as Spam?</title>
+    <shortdesc>Learn how to mark an email as a spam.</shortdesc>
+    <taskbody>
+        <context>
+            <p>If you are receiving unwanted emails you can organize them by marking them as spam.
+                The Mail App has a Spam folder that separates them from the rest of your inbox. If
+                you're unsure as of why you are receiving those email, see the <xref
+                    href="why_am_i_receiving_unwanted_emails.dita"/> page.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open the email.</cmd>
+            </step>
+            <step>
+                <cmd>Click the burger icon in the right top corner.</cmd>
+            </step>
+            <step>
+                <cmd>Select "Mark as Spam"</cmd>
+            </step>
+        </steps>
+        <result id="result_bzh_ggp_3pb">
+            <p>The unwanted email is moved to the spam folder. Future emails from this sender will
+                be moved there as well.</p>
+        </result>
+    </taskbody>
+</task>

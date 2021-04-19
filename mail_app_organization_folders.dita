@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="mail_app_organization_folders">
+    <title>Mail App Organization Folders</title>
+    <shortdesc>Learn how the Mail App organizes your emails.</shortdesc>
+    <refbody>
+        <section id="section_ppt_4dp_3pb">
+            <title>Folder Types</title>
+            <p>The mail app offers an organization tool to help you navigate through your emails.
+                There are four base folders and you can create a custom one. If you want to create a
+                custom folder, see the <xref href="how_to_create_a_folder.dita"/> guide.</p>
+        </section>
+        <table frame="all" rowsep="1" colsep="1" id="table_xlb_sdp_3pb">
+            <title>Basic Folder Types</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Folder Name</entry>
+                        <entry>Folder Purpose</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Inbox</entry>
+                        <entry>This folder contains your received emails.</entry>
+                    </row>
+                    <row>
+                        <entry>Sent</entry>
+                        <entry>This fodler containes the emails that you sent.</entry>
+                    </row>
+                    <row>
+                        <entry>Spam</entry>
+                        <entry>This fodler contains the emails you marked as "Spam".</entry>
+                    </row>
+                    <row>
+                        <entry>Deleted</entry>
+                        <entry>This folder contains the emails you deleted.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
