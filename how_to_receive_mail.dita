@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_receive_mail">
+    <title>How to Receive mail?</title>
+    <shortdesc>Here you can find information on how to receive mail using the Mail App.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_kwg_cv4_3pb"><p>In order to be able to receive emails in yout Mail App,
+                you have to have it installed on your mobile device and be logged in.</p>See the
+                <xref href="how_to_log_in_your_mail_app.dita"/> guide to learn how you can sign
+            in.</prereq>
+        <steps>
+            <step>
+                <cmd>Open Mail App.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your credentials.</cmd>
+            </step>
+            <step>
+                <cmd>Go to your "Inbox" folder.</cmd>
+            </step>
+        </steps>
+        <result id="result_v44_hv4_3pb">
+            <p>You will be able to see a list of your incoming emails sorted by latest receiving
+                date.</p>
+        </result>
+    </taskbody>
+</task>
